@@ -1,0 +1,6 @@
+{
+  "name": "HotnRoll",
+  "description": "HotnRoll — Premium flame-grilled burgers, artisanal rolled wraps, wood-fired pizzas, and crafted sides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
